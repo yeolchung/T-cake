@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <!-- IP 주소를 사용하는 경우 -->
+        <domain includeSubdomains="true">192.168.219.48</domain>
+    </domain-config>
+</network-security-config>
